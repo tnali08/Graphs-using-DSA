@@ -1,0 +1,39 @@
+# Graph Type: Directed
+# Vertices: 17, Edges: 35
+17 35 D
+J Q 11
+B H 16
+F K 15
+C H 17
+C G 13
+D G 13
+J K 16
+C N 9
+A K 11
+A E 3
+B H 3
+L O 20
+F G 2
+J L 10
+F Q 6
+N Q 16
+B D 3
+I J 10
+J K 18
+M N 6
+H N 16
+F M 1
+F Q 11
+A M 19
+C H 12
+M O 14
+J N 4
+I M 16
+A Q 13
+B D 14
+C L 12
+B J 4
+A E 13
+A E 19
+B E 1
+A

@@ -1,0 +1,39 @@
+# Graph Type: Undirected
+# Vertices: 18, Edges: 35
+18 35 U
+G L 19
+B H 19
+A C 11
+F G 18
+B C 5
+L P 13
+A Q 15
+L M 12
+D E 20
+B O 8
+E F 2
+M N 16
+K L 20
+O P 17
+I J 15
+P Q 3
+B K 17
+I R 3
+J K 3
+B N 1
+E L 10
+A G 16
+C D 1
+G H 14
+N Q 9
+B E 8
+O Q 9
+A B 17
+H I 5
+N O 10
+Q R 4
+M Q 7
+C L 9
+E J 18
+F J 16
+A
